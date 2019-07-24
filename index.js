@@ -9,3 +9,7 @@ function happyHolidaysTo(name) {
 }
 happyHolidaysTo();
 
+function happyHolidaysTo(holiday,name) {
+  return 'Happy holidays, you!'
+}
+happyHolidaysTo();
