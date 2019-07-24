@@ -13,3 +13,5 @@ function happyHolidayTo(holiday,name) {
   return 'Happy Independence Day, you!'
 }
 happyHolidayTo();
+
+"It's 20 days until Mother's Day!
